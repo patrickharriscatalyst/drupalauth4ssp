@@ -21,6 +21,6 @@
   "license": "GPL-2.0-or-later",
   "minimum-stability": "dev",
   "require": {
-    "drupalauth/simplesamlphp-module-drupalauth": "~1.8.0"
+    "patrickharriscatalyst/simplesamlphp-module-drupalauth": "~8.0.1"
   }
 }
